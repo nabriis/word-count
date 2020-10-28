@@ -48,3 +48,4 @@ Meta
 
 - Add new exercises ideas for future workshops (edit this file).
 - Testing webhook integration for read the docs
+- Testing webhook integration for read the docs (test 2)
